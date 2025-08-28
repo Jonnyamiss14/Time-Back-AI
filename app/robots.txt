@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Block access to admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow access to important files
+Allow: /api/sitemap
+Allow: /sitemap.xml
+
+# Sitemap location
+Sitemap: https://pocketsendai.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1

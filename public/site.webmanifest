@@ -1,0 +1,10 @@
+{
+  "name": "TimeBack AI - Give Staff Time Back with Bespoke AI Training",
+  "short_name": "TimeBack AI",
+  "description": "Bespoke, human-centred AI training for schools and employment services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10A39A",
+  "icons": []
+}
